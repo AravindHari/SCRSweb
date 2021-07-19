@@ -428,29 +428,3 @@ width: 230px;
   position:relative;
 }
 
-
-@keyframes fadeout{
-  from{
-    opacity:0;
-    transform:translateY(-200%);
-  }
-  to{
-    opacity:1;
-    transform:translateY(0);
-  }
-}
-
-@keyframes fadein{
-  from{
-    opacity:1;
-    transform:translateY(0);
-  }
-  to{
-    opacity:0;
-    transform:translateY(-200%);
-  }
-}
-
-
-
-
