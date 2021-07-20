@@ -430,7 +430,7 @@ width: 230px;
   position:relative;
 }
 @media only screen and (max-width: 768px){
-    body{
+    html,body{
     width:100%;
     overflow-x:auto;
     }
